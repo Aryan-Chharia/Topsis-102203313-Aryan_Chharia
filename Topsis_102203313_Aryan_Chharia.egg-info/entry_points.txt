@@ -1,0 +1,2 @@
+[console_scripts]
+topsis-aryan = Topsis_102203313_Aryan_Chharia.main:main
